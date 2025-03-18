@@ -3,24 +3,25 @@ layout: page
 ---
 
 # About Me
-Hi, this is **Linjia Tang (Alex)**.<br>
 
-I am a undergraduate student in Computer Science at the University of Waterloo. 
+# About Me
 
-Last year, I have conducted this research under the supervision of Prof. [Sihang Liu](https://www.sihangliu.com/). 
+Hi, this is **Linjia Tang (Alex).**  
 
-Currently, I am currently participating in two part-time research projects:
+I am an undergraduate student in Computer Science at the University of Waterloo.  
 
-- **RNA-small molecule binding affinity project**  
-  Supervised by Principal Scientist [Wu Min](https://sites.google.com/site/wumincf/) of A*STAR in Singapore.
+### Research on [Sihang Liu](https://www.sihangliu.com/)'s Team  
+Conducted research under the supervision of Prof. Sihang Liu last year.
 
-- **Medical Image Generation project**  
-  Supervised by Ph.D. student [Jasper Zhang](https://jasperzhang.com/) at the University of Toronto and the University Health Network.
+### RNA-small molecule Binding Affinity Project  
+Supervised by Principal Scientist [Wu Min](https://sites.google.com/site/wumincf/) of A*STAR in Singapore.
 
-> **🔴 I am seeking a Master/PhD position for Fall 2026 admission.**  
-> If you have any information, please contact me. Thank you!
+### Medical Image Generation Project  
+Supervised by Ph.D. student [Jasper Zhang](https://jasperzhang.com/) at the University of Toronto and the University Health Network.
 
-**<font color="#990000">I am seeking a Master/PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
+---
+
+🟥 **_I am seeking a Master/PhD position for Fall 2026 admission._**   
 
 ---
 
