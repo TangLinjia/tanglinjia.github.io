@@ -11,9 +11,14 @@ Last year, I have conducted this research under the supervision of Prof. [Sihang
 
 Currently, I am currently participating in two part-time research projects:
 
-The RNA-small molecule binding affinity project which is supervised by Principal Scientist [Wu Min](https://sites.google.com/site/wumincf/) of A*STAR in Singapore.
+- **RNA-small molecule binding affinity project**  
+  Supervised by Principal Scientist [Wu Min](https://sites.google.com/site/wumincf/) of A*STAR in Singapore.
 
-The Medical Image Generation project which is supervised by Ph.D. student [Jasper Zhang](https://jasperzhang.com/) of the University of Toronto and the University Health Network.
+- **Medical Image Generation project**  
+  Supervised by Ph.D. student [Jasper Zhang](https://jasperzhang.com/) at the University of Toronto and the University Health Network.
+
+> **🔴 I am seeking a Master/PhD position for Fall 2026 admission.**  
+> If you have any information, please contact me. Thank you!
 
 **<font color="#990000">I am seeking a Master/PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
