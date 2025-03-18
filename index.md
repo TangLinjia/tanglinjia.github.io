@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-Here is **Linjia Tang (Alex)**.<br>
+Hi, this is **Linjia Tang (Alex)**.<br>
 
-I am a undergraduate student in Computer Science at the University of Waterloo. Last year, I have conducted this research under the supervision of [Prof. Sihang Liu](link). Currently, I am joining research teams under the guidance of [Min Wu].
+I am a undergraduate student in Computer Science at the University of Waterloo. Last year, I have conducted this research under the supervision of [Prof. Sihang Liu](https://www.sihangliu.com/). Currently, I am joining research teams under the guidance of [Min Wu](link).
 
 **<font color="#990000">I am seeking a Master/PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
