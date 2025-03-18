@@ -4,8 +4,6 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
-
 Here is **Linjia Tang (Alex)**.<br>
 
 I am a undergraduate student in Computer Science at the University of Waterloo. Last year, I have conducted this research under the supervision of [Prof. Sihang Liu](link). Currently, I am joining research teams under the guidance of [Min Wu].
