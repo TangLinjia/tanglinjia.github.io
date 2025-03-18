@@ -3,8 +3,7 @@ layout: page
 ---
 
 # About Me
-Hi, this is **Linjia Tang (Alex)**.<br>
-
+Hi, this is **Linjia Tang (Alex)**.
 
 I am a undergraduate student in Computer Science at the University of Waterloo. 
 
@@ -15,17 +14,16 @@ I am a undergraduate student in Computer Science at the University of Waterloo.
 ## Research Experiences
 
 - **Assessing the security implications of generative AI applications**  
->  from September to December 2024
-  
+  From September to December 2024
   Supervised by Prof. [Sihang Liu](https://www.sihangliu.com/) at the University of Waterloo.
 
 - **RNA-small molecule binding affinity** 
-> from February 2025
+  From February 2025
 
   Supervised by Principal Scientist [Wu Min](https://sites.google.com/site/wumincf/) at A*STAR in Singapore.
 
 - **Medical Image Generation**  
-> from March 2025
+  From March 2025
 
   Supervised by Ph.D. student [Jasper Zhang](https://jasperzhang.com/) at the University of Toronto and the University Health Network.
 
