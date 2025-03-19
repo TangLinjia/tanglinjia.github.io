@@ -7,7 +7,7 @@ layout: page
 
 Hi, this is **Linjia Tang (Alex)**. I am a undergraduate student in Computer Science at the University of Waterloo. \\
 
-**<font color="#990000">I am seeking a Master/PhD position for Fall 2026 admission.</font>**
+> **<font color="#990000">I am seeking a Master/PhD position for Fall 2026 admission.</font>**
 
 ---
 
