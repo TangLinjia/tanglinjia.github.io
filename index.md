@@ -7,6 +7,8 @@ layout: page
   Hi, this is **Linjia (Alex) Tang**. I am an undergraduate student in Computer Science at the University of Waterloo.
 
 > **<font color="#990000">I am seeking a Master/PhD position for Fall 2026 admission.</font>**
+ 
+ Please feel free to contact me at l65tang\@uwaterloo.ca, if you need any further information.
 
 ---
 
@@ -16,13 +18,9 @@ layout: page
   From September to December 2024\\
   Supervised by Prof. [Sihang Liu](https://www.sihangliu.com/) at the University of Waterloo.
 
-- **RNA-small molecule binding affinity**  
-  From February 2025\\
-  Supervised by Principal Scientist [Wu Min](https://sites.google.com/site/wumincf/) at A*STAR in Singapore.
-
 - **Medical Image Generation**  
   From March 2025\\
-  Supervised by Ph.D. student [Jasper Zhang](https://jasperzhang.com/) at the University of Toronto and the University Health Network.
+  Supervised by Ph.D. student [Jasper Zhang](https://jasperzhang.com/) at the University of Toronto, Dalla Lana School of Public Health.
 
 ---
 
