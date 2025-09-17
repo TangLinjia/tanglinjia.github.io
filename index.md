@@ -8,7 +8,7 @@ layout: page
 
 > **<font color="#990000">I am seeking a Master/PhD position for Fall 2026 admission.</font>**
  
- Please feel free to contact me at l65tang\@uwaterloo.ca, if you need any further information.
+ Please feel free to contact me at l65tang@uwaterloo.ca, if you need any further information.
 
 ---
 
